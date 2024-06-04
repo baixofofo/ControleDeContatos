@@ -15,7 +15,7 @@ namespace ControleDeContatos.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Descrição da sua Pagina.";
 
             return View();
         }
